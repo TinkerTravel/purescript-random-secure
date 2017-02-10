@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "purescript-eff": "^2.0.0",
-    "purescript-bytestrings": "^1.2.0",
+    "purescript-bytestrings": "^2.0.0",
     "purescript-exceptions": "^2.0.0"
   }
 }
